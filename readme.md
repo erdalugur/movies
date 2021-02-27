@@ -3,7 +3,7 @@ NodeJS
 Expo.io
 
 # For Api
-- cd api && 
+- cd api
 - npm i
 - npm start
 
