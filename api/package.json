@@ -1,0 +1,33 @@
+{
+  "name": "movie-api",
+  "version": "1.0.0",
+  "main": "app/index.js",
+  "scripts": {
+    "start": "nodemon app/index.js",
+    "build": "webpack -w",
+    "dev": "nodemon app/index.js",
+    "serve": "node build/app.js"
+  },
+  "keywords": [],
+  "author": "Uğur Erdal",
+  "description": "react native movie app, api project",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "latest",
+    "@babel/node": "latest",
+    "@babel/plugin-proposal-class-properties": "latest",
+    "@babel/plugin-transform-runtime": "^7.12.1",
+    "@babel/preset-env": "latest",
+    "@babel/preset-react": "latest",
+    "@babel/runtime": "^7.12.5",
+    "babel-loader": "latest",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "cross-env": "latest",
+    "express": "latest",
+    "nodemon": "latest",
+    "npm-run-all": "latest",
+    "webpack": "latest",
+    "webpack-cli": "latest"
+  }
+}
