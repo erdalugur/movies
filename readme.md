@@ -1,6 +1,8 @@
-Dependencies
-NodeJS
-Expo.io
+![alt text](https://github.com/erdalugur/movies/blob/master/rn-movie.jpg?raw=true)
+
+# Dependencies
+- NodeJS
+- Expo.io
 
 # For Api
 - cd api
