@@ -1,4 +1,4 @@
-![alt text](https://github.com/erdalugur/movies/blob/master/rn-movie.jpg?raw=true)
+![alt text](https://github.com/erdalugur/movies/blob/master/app/assets/rn-movie.jpg?raw=true)
 
 # Dependencies
 - NodeJS
